@@ -157,7 +157,6 @@ Conceptly is not just a hackathon project—it's a **production-ready platform**
 
 ## Team & Contact
 
-**GitHub**: [github.com/conceptly/conceptly](https://github.com/conceptly/conceptly)  
 **Demo**: [conceptly.app](https://conceptly.app)  
 **Email**: team@conceptly.app
 
